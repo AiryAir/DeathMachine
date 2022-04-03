@@ -1,4 +1,4 @@
-# DeathMachine
+# DEATH-MACHINE
 
 coming soon :)
 
